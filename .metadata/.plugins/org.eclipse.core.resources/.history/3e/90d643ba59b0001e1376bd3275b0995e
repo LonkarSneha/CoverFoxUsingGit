@@ -1,0 +1,30 @@
+2024-01-11 13:32:45,754 - CoverFoxInsurance -INFO - Launching CoverFox
+2024-01-11 13:32:53,591 - CoverFoxInsurance -INFO - Clicking on Female Button
+2024-01-11 13:32:55,505 - CoverFoxInsurance -INFO - Clicking on Next Button
+2024-01-11 13:32:56,713 - CoverFoxInsurance -INFO - Handeling age dropdown
+2024-01-11 13:32:58,600 - CoverFoxInsurance -INFO - Clicking on Next Button
+2024-01-11 13:32:59,721 - CoverFoxInsurance -INFO - Entering mobile number
+2024-01-11 13:32:59,914 - CoverFoxInsurance -INFO - Clicking on Continue Button
+2024-01-11 13:33:01,127 - CoverFoxInsurance -INFO - Closing Browser
+2024-01-11 13:39:38,089 - CoverFoxInsurance -INFO - Launching CoverFox
+2024-01-11 13:39:38,098 - CoverFoxInsurance -ERROR - Please select browser of your choice
+2024-01-11 13:39:47,230 - CoverFoxInsurance -INFO - Clicking on Female Button
+2024-01-11 13:39:47,231 - CoverFoxInsurance -ERROR - Enter on male button
+2024-01-11 13:39:49,773 - CoverFoxInsurance -INFO - Clicking on Next Button
+2024-01-11 13:39:50,876 - CoverFoxInsurance -INFO - Handeling age dropdown
+2024-01-11 13:39:52,092 - CoverFoxInsurance -INFO - Clicking on Next Button
+2024-01-11 13:39:53,180 - CoverFoxInsurance -INFO - Entering mobile number
+2024-01-11 13:39:53,306 - CoverFoxInsurance -INFO - Clicking on Continue Button
+2024-01-11 13:39:54,421 - CoverFoxInsurance -WARN - Please enter valid information
+2024-01-11 13:39:54,425 - CoverFoxInsurance -INFO - Closing Browser
+2024-01-11 13:44:14,982 - CoverFoxInsurance -INFO - Launching CoverFox
+2024-01-11 13:44:14,988 - CoverFoxInsurance -ERROR - Please select browser of your choice
+2024-01-11 13:44:21,179 - CoverFoxInsurance -INFO - Clicking on Female Button
+2024-01-11 13:44:21,180 - CoverFoxInsurance -ERROR - Enter on male button
+2024-01-11 13:44:23,153 - CoverFoxInsurance -INFO - Clicking on Next Button
+2024-01-11 13:44:24,223 - CoverFoxInsurance -INFO - Handling age dropdown
+2024-01-11 13:44:25,915 - CoverFoxInsurance -INFO - Clicking on Next Button
+2024-01-11 13:44:27,023 - CoverFoxInsurance -INFO - Entering mobile number
+2024-01-11 13:44:27,171 - CoverFoxInsurance -INFO - Clicking on Continue Button
+2024-01-11 13:44:28,329 - CoverFoxInsurance -WARN - Please enter valid information
+2024-01-11 13:44:28,342 - CoverFoxInsurance -INFO - Closing Browser

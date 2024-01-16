@@ -1,0 +1,11 @@
+2024-01-11 13:46:53,906 - CoverFoxInsurance -INFO - Launching CoverFox
+2024-01-11 13:46:53,914 - CoverFoxInsurance -ERROR - Please select browser of your choice
+2024-01-11 13:47:02,318 - CoverFoxInsurance -INFO - Clicking on Female Button
+2024-01-11 13:47:02,319 - CoverFoxInsurance -ERROR - Enter on male button
+2024-01-11 13:47:04,385 - CoverFoxInsurance -INFO - Clicking on Next Button
+2024-01-11 13:47:05,499 - CoverFoxInsurance -INFO - Handling age dropdown
+2024-01-11 13:47:07,134 - CoverFoxInsurance -INFO - Clicking on Next Button
+2024-01-11 13:47:08,214 - CoverFoxInsurance -INFO - Entering mobile number
+2024-01-11 13:47:08,418 - CoverFoxInsurance -INFO - Clicking on Continue Button
+2024-01-11 13:47:09,620 - CoverFoxInsurance -WARN - Please enter valid information
+2024-01-11 13:47:09,620 - CoverFoxInsurance -INFO - Closing Browser

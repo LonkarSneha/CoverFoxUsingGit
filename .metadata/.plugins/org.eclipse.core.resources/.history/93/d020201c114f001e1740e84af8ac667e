@@ -1,0 +1,25 @@
+package controlStatements;
+
+public class ElseIfStatement {
+
+	public static void main(String[] args) 
+	
+	{
+        char gender='A';
+		
+		if (gender=='M')
+		{
+			System.out.println("I am male");
+		}
+		else if (gender=='F')
+		{
+			System.out.println("I am female");
+		}
+		else
+		{
+			System.out.println("Please enter valid gender value M/F");
+		}
+
+	}
+
+}

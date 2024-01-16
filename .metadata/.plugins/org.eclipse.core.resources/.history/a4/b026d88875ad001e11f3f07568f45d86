@@ -1,0 +1,31 @@
+package logicalProgramsbySneha;
+
+import java.util.Scanner;
+
+public class AlphabetCount {
+
+	public static void main(String[] args) 
+	{
+		System.out.println("Enter String");
+		Scanner s = new Scanner(System.in);
+		String a = s.nextLine();
+		String b = a.replace(" ", "");
+		System.out.println(b.length());
+		StringBuffer c = new StringBuffer(b);
+		
+		int lowercaseAlphabetno=0;
+		int uppercaseAlphabetno=0;
+		
+		for(int i=0;i<c.length();i++)
+		if(Character.isLowerCase(c.charAt(i)))
+		{
+			lowercaseAlphabetno++;
+		}
+		else
+		{
+			uppercaseAlphabetno++;
+		}
+		System.out.println("lowercase alphabet= "+lowercaseAlphabetno);
+		System.out.println("uppercase alphabet= "+uppercaseAlphabetno);W
+	}
+}

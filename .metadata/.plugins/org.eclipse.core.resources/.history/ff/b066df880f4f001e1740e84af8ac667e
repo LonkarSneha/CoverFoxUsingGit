@@ -1,0 +1,18 @@
+package controlStatements;
+
+public class IfElseStatement {
+
+	public static void main(String[] args) 
+	{
+		// To study if_else
+		
+		int marks = 40;
+		
+		if (marks>=40)
+		{
+			
+		}
+
+	}
+
+}

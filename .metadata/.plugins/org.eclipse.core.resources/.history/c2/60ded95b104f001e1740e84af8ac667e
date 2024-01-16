@@ -1,0 +1,24 @@
+package controlStatements;
+
+public class IfElseHw {
+
+	public static void main(String[] args) 
+	
+	{
+		//If my gender is M then I am male
+		//else I am female
+		
+		char gender='M';
+		
+		if (gender=='M')
+		{
+			System.out.println("I am male");
+		}
+		else 
+		{
+			System.out.println("I am female");
+		}
+
+	}
+
+}

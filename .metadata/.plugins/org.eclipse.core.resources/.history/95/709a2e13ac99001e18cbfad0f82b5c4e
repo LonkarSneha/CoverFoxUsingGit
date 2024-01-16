@@ -1,0 +1,17 @@
+package logicalProgramsbySneha;
+
+public class RemoveWhiteSpaces {
+
+	public static void main(String[] args) 
+	{
+		String str = "Sneha @12657&  %$#)^$ ^&*#^%&";
+		System.out.println("Before removing the white spaces:" +str);
+		str = str.replaceAll("[^a-zA-Z0-9]","");
+		System.out.println("After removing the white spaces:" +str);
+		
+		
+		
+		
+	}
+
+}

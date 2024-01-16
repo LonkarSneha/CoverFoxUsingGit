@@ -1,0 +1,22 @@
+package controlStatements;
+
+public class IfElseStatement {
+
+	public static void main(String[] args) 
+	{
+		// To study if_else
+		
+		int marks = 40;
+		
+		if (marks>=40)
+		{
+			System.out.println("I am pass");
+		}
+		else 
+		{
+			System.out.println("I am fail");
+		}
+
+	}
+
+}

@@ -1,0 +1,21 @@
+package methods;
+
+public class StaticMethodCallFromSameClass 
+
+{
+
+	public static void main(String[] args) 
+	
+	{
+		test();
+
+	}
+	
+	public static void test()
+	{
+		System.out.println("Hi this is regular static complete method");
+	}
+	
+	public static test1()
+	
+}

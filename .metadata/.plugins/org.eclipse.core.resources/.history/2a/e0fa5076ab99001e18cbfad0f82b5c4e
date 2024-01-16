@@ -1,0 +1,15 @@
+package logicalProgramsbySneha;
+
+public class RemoveWhiteSpaces {
+
+	public static void main(String[] args) 
+	{
+		String str = "Sneha is a student from Software Testing";
+		System.out.println("Before removing the white spaces:" +str);
+		str = str.replaceAll("\\s","");
+		System.out.println("After removing the white spaces:" +str);
+		
+		
+	}
+
+}

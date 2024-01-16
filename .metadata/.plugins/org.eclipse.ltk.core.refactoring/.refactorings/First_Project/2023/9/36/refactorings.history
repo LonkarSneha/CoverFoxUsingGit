@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;variabletypes.GolbalAndLocalVariable.java&apos; to &apos;GlobalAndLocalVariable.java&apos;&#x0D;&#x0A;- Original project: &apos;First_Project&apos;&#x0D;&#x0A;- Original element: &apos;variabletypes.GolbalAndLocalVariable.java&apos;&#x0D;&#x0A;- Renamed element: &apos;variabletypes.GlobalAndLocalVariable.java&apos;" description="Rename compilation unit &apos;GolbalAndLocalVariable.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;variabletypes{GolbalAndLocalVariable.java" name="GlobalAndLocalVariable.java" references="false" stamp="1694261781172" version="1.0"/>
+</session>

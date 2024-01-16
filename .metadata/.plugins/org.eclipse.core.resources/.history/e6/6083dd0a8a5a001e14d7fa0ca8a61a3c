@@ -1,0 +1,24 @@
+package abstractStudy;
+
+public class ConcreteUse extends AbstractUse
+{
+
+	public static void main(String[] args) 
+	{
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void sample2() 
+	{
+		// Incomplete method from Abstract class
+		System.out.println("Incomplete method of Abstract class completed in Concrete class");
+	}
+	
+	public void test()
+	{
+		System.out.println("Welcome to concrete class");
+	}
+
+}

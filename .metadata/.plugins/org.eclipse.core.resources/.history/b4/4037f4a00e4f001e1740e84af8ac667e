@@ -1,0 +1,20 @@
+package controlStatements;
+
+public class If_Statement 
+
+{
+
+	public static void main(String[] args) 
+	
+	{
+		// To study if statement
+		int rupee=10;
+		
+		if (rupee>=10)
+		{
+			System.out.println("You can purchase kitkat chocolate");
+		}
+
+	}
+
+}

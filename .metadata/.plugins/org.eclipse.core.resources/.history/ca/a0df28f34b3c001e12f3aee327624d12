@@ -1,0 +1,14 @@
+package methods;
+
+public class StaticMethodCallFromSameClass {
+
+	public static void main(String[] args) 
+	
+	{
+		
+
+	}
+	
+	public s
+
+}

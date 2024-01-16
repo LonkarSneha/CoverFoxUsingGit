@@ -1,0 +1,16 @@
+package abstractStudy;
+
+public class AbstractUse 
+{
+    public void sample()
+    {
+    	System.out.println("Welcome to Abstract class");
+    }
+    
+    public void sample1()
+    {
+    	System.out.println("Complete Method");
+    }
+    
+    public void sample2();
+}

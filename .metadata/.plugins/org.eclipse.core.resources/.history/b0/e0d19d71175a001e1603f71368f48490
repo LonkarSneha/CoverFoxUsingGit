@@ -1,0 +1,24 @@
+package encapsulationStusy;
+
+public class UseofEncapsulation 
+{
+    private int a=2;
+    private int b=4;
+	
+	public void display()
+	{
+		int sub= b-a;
+		System.out.println("The substraction is "+sub);
+	}
+	
+	public int getvalue()
+	{
+		return a;
+	}
+	
+	public int getvalueofb()
+	{
+		return b;
+	}
+
+}
