@@ -5,61 +5,121 @@
       <![CDATA[Launching Browser]]>
     </line>
     <line>
-      <![CDATA[Reading data from excel sheet]]>
+      <![CDATA[clicking on gender button]]>
+    </line>
+    <line>
+      <![CDATA[clicking on next button]]>
+    </line>
+    <line>
+      <![CDATA[Handeling age drop down]]>
     </line>
     <line>
       <![CDATA[Reading data from excel sheet]]>
     </line>
     <line>
-      <![CDATA[Validating Pincode Error Msg]]>
+      <![CDATA[clicking on next button]]>
     </line>
     <line>
-      <![CDATA[TC IS Passed]]>
+      <![CDATA[Entering pin code]]>
     </line>
     <line>
-      <![CDATA[Closing Browser]]>
+      <![CDATA[Reading data from excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobile num]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[Fetching number of results from text]]>
+    </line>
+    <line>
+      <![CDATA[Fetching number of results from banners]]>
+    </line>
+    <line>
+      <![CDATA[TC is passed]]>
+    </line>
+    <line>
+      <![CDATA[Taking screenshot]]>
+    </line>
+    <line>
+      <![CDATA[Saved screenshot at E:\Testing+TCID_2024.01.16.23.59.49.png]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-01-11T13:46:53 IST" name="Default suite" finished-at="2024-01-11T13:47:14 IST" duration-ms="20932">
+  <suite started-at="2024-01-16T23:59:20 IST" name="Default suite" finished-at="2024-01-16T23:59:52 IST" duration-ms="32104">
     <groups>
     </groups>
-    <test started-at="2024-01-11T13:46:53 IST" name="Default test" finished-at="2024-01-11T13:47:14 IST" duration-ms="20932">
-      <class name="coverFoxTest.CF_002Validate_Pincode_Error_Msg">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxTest.CF_002Validate_Pincode_Error_Msg@5bf0d49]" started-at="2024-01-11T13:46:53 IST" name="launchBrowser" finished-at="2024-01-11T13:47:02 IST" duration-ms="8562" status="PASS">
+    <test started-at="2024-01-16T23:59:20 IST" name="Default test" finished-at="2024-01-16T23:59:52 IST" duration-ms="32104">
+      <class name="coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies@13c9d689]" started-at="2024-01-16T23:59:20 IST" name="launchBrowser" finished-at="2024-01-16T23:59:28 IST" duration-ms="8283" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Launching Browser]]>
             </line>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method is-config="true" signature="enterUserDetails()[pri:0, instance:coverFoxTest.CF_002Validate_Pincode_Error_Msg@5bf0d49]" started-at="2024-01-11T13:47:02 IST" name="enterUserDetails" finished-at="2024-01-11T13:47:09 IST" duration-ms="7204" status="PASS">
+        <test-method is-config="true" signature="enterMemberDetails()[pri:0, instance:coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies@13c9d689]" started-at="2024-01-16T23:59:28 IST" name="enterMemberDetails" finished-at="2024-01-16T23:59:36 IST" duration-ms="7352" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[clicking on gender button]]>
+            </line>
+            <line>
+              <![CDATA[clicking on next button]]>
+            </line>
+            <line>
+              <![CDATA[Handeling age drop down]]>
+            </line>
             <line>
               <![CDATA[Reading data from excel sheet]]>
             </line>
             <line>
+              <![CDATA[clicking on next button]]>
+            </line>
+            <line>
+              <![CDATA[Entering pin code]]>
+            </line>
+            <line>
               <![CDATA[Reading data from excel sheet]]>
             </line>
+            <line>
+              <![CDATA[Entering mobile num]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[clicking on continue button]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- enterUserDetails -->
-        <test-method signature="validate_Pincode_ErrorMsg()[pri:0, instance:coverFoxTest.CF_002Validate_Pincode_Error_Msg@5bf0d49]" started-at="2024-01-11T13:47:09 IST" name="validate_Pincode_ErrorMsg" finished-at="2024-01-11T13:47:09 IST" duration-ms="98" status="PASS">
+        </test-method> <!-- enterMemberDetails -->
+        <test-method signature="validateTestPlansFromTextAndBanners()[pri:0, instance:coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies@13c9d689]" started-at="2024-01-16T23:59:36 IST" name="validateTestPlansFromTextAndBanners" finished-at="2024-01-16T23:59:49 IST" duration-ms="13418" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Validating Pincode Error Msg]]>
+              <![CDATA[Fetching number of results from text]]>
             </line>
             <line>
-              <![CDATA[TC IS Passed]]>
+              <![CDATA[Fetching number of results from banners]]>
+            </line>
+            <line>
+              <![CDATA[TC is passed]]>
+            </line>
+            <line>
+              <![CDATA[Taking screenshot]]>
+            </line>
+            <line>
+              <![CDATA[Saved screenshot at E:\Testing+TCID_2024.01.16.23.59.49.png]]>
             </line>
           </reporter-output>
-        </test-method> <!-- validate_Pincode_ErrorMsg -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFoxTest.CF_002Validate_Pincode_Error_Msg@5bf0d49]" started-at="2024-01-11T13:47:09 IST" name="closeBrowser" finished-at="2024-01-11T13:47:14 IST" duration-ms="5024" status="PASS">
+        </test-method> <!-- validateTestPlansFromTextAndBanners -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies@13c9d689]" started-at="2024-01-16T23:59:49 IST" name="closeBrowser" finished-at="2024-01-16T23:59:52 IST" duration-ms="3006" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[Closing Browser]]>
-            </line>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-      </class> <!-- coverFoxTest.CF_002Validate_Pincode_Error_Msg -->
+      </class> <!-- coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

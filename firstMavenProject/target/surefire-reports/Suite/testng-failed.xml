@@ -6,14 +6,6 @@
   </listeners>
   <test thread-count="5" name="Test(failed)" verbose="0">
     <classes>
-      <class name="coverFoxTest.CF_002Validate_Pincode_Error_Msg">
-        <methods>
-          <include name="enterUserDetails"/>
-          <include name="validate_Pincode_ErrorMsg"/>
-          <include name="closeBrowser"/>
-          <include name="launchBrowser"/>
-        </methods>
-      </class> <!-- coverFoxTest.CF_002Validate_Pincode_Error_Msg -->
       <class name="coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies">
         <methods>
           <include name="closeBrowser"/>
@@ -22,6 +14,14 @@
           <include name="enterMemberDetails"/>
         </methods>
       </class> <!-- coverFoxTest.CF_TC555_Validate_search_results_for_healthcare_policies -->
+      <class name="coverFoxTest.CF_002Validate_Pincode_Error_Msg">
+        <methods>
+          <include name="enterUserDetails"/>
+          <include name="validate_Pincode_ErrorMsg"/>
+          <include name="closeBrowser"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- coverFoxTest.CF_002Validate_Pincode_Error_Msg -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
